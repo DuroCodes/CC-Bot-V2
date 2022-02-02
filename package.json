@@ -1,0 +1,29 @@
+{
+    "name": "crystals-crescent-bot",
+    "version": "2.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "anime-actions": "1.0.6",
+        "ascii-table": "0.0.9",
+        "chalk": "^4.1.2",
+        "cheerio": "^1.0.0-rc.10",
+        "coloras": "^2.0.2",
+        "discord.js": "^13.3.1",
+        "glob": "^7.2.0",
+        "hypixel-api-reborn": "9.0.3",
+        "mc-names": "1.2.3",
+        "moment": "2.29.1",
+        "mongoose": "^6.0.13",
+        "reconlx": "^2.5.1",
+        "txtgen": "^3.0.1",
+        "weky": "^3.1.8"
+    }
+}
